@@ -7,4 +7,3 @@ from flask import render_template, redirect
 def index():
     return render_template('index.html')
 
-
